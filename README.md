@@ -1,2 +1,2 @@
-# PDF-Scanned-Images-to-Useable-text
-PDF to Image/Text Conversion using Tesseract and OCR
+# Image Processing
+PDF/Scanned Image to Text Conversion using Tesseract and OCR
